@@ -1,0 +1,14 @@
+{
+    "TechX": {
+        "price": 100,
+        "volume": 0
+    },
+    "GameCorp": {
+        "price": 50,
+        "volume": 0
+    },
+    "FoodHub": {
+        "price": 75,
+        "volume": 0
+    }
+}
